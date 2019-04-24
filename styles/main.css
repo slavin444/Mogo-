@@ -9,12 +9,17 @@
 }	
 .container {
 	width: 1200px;
-}
+	margin: 0 auto;
+}	
 
 .navbar img {
 	width: 60px;
+	float: left;
 }
 
+nav {
+	float: right;
+}
 
 nav li {
 	display: inline-block;
