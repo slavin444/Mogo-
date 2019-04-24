@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.banner {
+	background: url(../img/background.jpg) no-repeat center top / cover ;
+	height: 800px;
+}	
+.container {
+	width: 1200px;
+}
+
+.navbar img {
+	width: 60px;
+}
+
+
+nav li {
+	display: inline-block;
+}
+
+nav a {
+	text-decoration: none;
+	color: #ffffff;
+	text-decoration: uppercase;
+	font-family: Arial , sans-serif;
+	font-size: 14px;
+	margin=right: 50px;
+}
